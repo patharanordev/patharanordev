@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi, I'm Pathara 👋
+
+I'm Full-Stack developer.
+
+- 🔭 I’m currently working on Tesco.
+- 🌱 I’m currently learning machine learning (ML). I'm joining [Super AI Engineer](https://superai.aiat.or.th/), it's me #22p11c0686 (newbie :P)
 
 <!--
 **patharanordev/patharanordev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
