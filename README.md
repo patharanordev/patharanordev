@@ -1,6 +1,6 @@
 ### Hi, I'm Pathara 👋
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=patharanordev&margin-w=5)](https://github.com/patharanordev)
+[![trophy](https://github-profile-trophy.vercel.app/?username=patharanordev&margin-w=5&column=8)](https://github.com/patharanordev)
 
 ---
 
@@ -10,8 +10,8 @@ I'm Full-Stack developer.
 - 🌱 I’m currently learning machine learning (ML). I'm joining [Super AI Engineer](https://superai.aiat.or.th/), it's me #22p11c0686 (newbie :P)
 
 <div>
-  <img width=400 align="left" src="https://github-readme-stats.vercel.app/api?username=patharanordev&count_private=true&include_all_commits=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patharanordev&layout=compact&hide=Jupyter%20Notebook" />
+  <img width=400 align="left" src="https://github-readme-stats.vercel.app/api?username=patharanordev&count_private=true&include_all_commits=true&theme=buefy&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patharanordev&layout=compact&langs_count=20&hide=Jupyter%20Notebook" />
 </div>
 
 
