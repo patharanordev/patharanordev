@@ -11,7 +11,7 @@ I'm Full-Stack developer.
 
 <div>
   <img width=400 align="left" src="https://github-readme-stats.vercel.app/api?username=patharanordev&count_private=true&include_all_commits=true&theme=buefy&show_icons=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patharanordev&layout=compact&langs_count=20&hide=Jupyter%20Notebook" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patharanordev&layout=compact&langs_count=7&hide=Jupyter%20Notebook" />
 </div>
 
 
