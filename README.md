@@ -11,13 +11,10 @@ I'm Full-Stack developer.
 - 🔭 I’m currently working on Tesco.
 - 🌱 I’m currently learning machine learning (ML). I'm joining [Super AI Engineer](https://superai.aiat.or.th/), it's me #22p11c0686 (newbie :P)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=patharanordev&hide_border=true)](https://git.io/streak-stats)
-
 <div>
   <img width=400 align="left" src="https://github-readme-stats.vercel.app/api?username=patharanordev&count_private=true&include_all_commits=true&theme=buefy&show_icons=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patharanordev&layout=compact&langs_count=7&hide=Jupyter%20Notebook" />
 </div>
-
 
 <!--
 **patharanordev/patharanordev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
