@@ -1,5 +1,7 @@
 ### Hi, I'm Pathara 👋
 
+![](https://komarev.com/ghpvc/?username=patharanordev)
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=patharanordev&margin-w=5&column=8)](https://github.com/patharanordev)
 
 ---
@@ -8,6 +10,8 @@ I'm Full-Stack developer.
 
 - 🔭 I’m currently working on Tesco.
 - 🌱 I’m currently learning machine learning (ML). I'm joining [Super AI Engineer](https://superai.aiat.or.th/), it's me #22p11c0686 (newbie :P)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=patharanordev&hide_border=true)](https://git.io/streak-stats)
 
 <div>
   <img width=400 align="left" src="https://github-readme-stats.vercel.app/api?username=patharanordev&count_private=true&include_all_commits=true&theme=buefy&show_icons=true" />
