@@ -6,9 +6,9 @@
 
 ---
 
-I'm Full-Stack developer.
+I'm Engineering Lead.
 
-- 🔭 I’m currently working on Lotus's.
+- 🔭 I’m currently working on Health-Plaza tech startup by BDMS.
 - 🌱 I’m currently learning machine learning (ML). I'm joining [Super AI Engineer](https://superai.aiat.or.th/), it's me #22p11c0686 (newbie :P)
 
 <div>
